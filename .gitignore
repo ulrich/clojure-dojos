@@ -1,8 +1,9 @@
 pom.xml
 *jar
-/lib/
-/classes/
+lib
+classes
 .lein-failures
 .lein-deps-sum
 .DS_Store
 .cake
+deps.clj

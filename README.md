@@ -9,3 +9,4 @@ En général, les tests sont écrits avec [Midje](https://github.com/marick/Midj
 ou
 	cake midje
 
+Pour lancer les tests en continu, [AutoTestScript](https://github.com/elefevre/AutoTestScript) peut être utile.
